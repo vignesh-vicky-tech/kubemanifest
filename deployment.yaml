@@ -15,7 +15,7 @@ spec:
         app: apache
     spec:
       containers:
-      - image: vigneshvicky12345/good:v1
+      - image: vigneshvicky12345/demo:6
         imagePullPolicy: Always
         name: apache
         ports:
